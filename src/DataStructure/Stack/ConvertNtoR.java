@@ -2,7 +2,7 @@ package DataStructure.Stack;
 
 import java.util.Stack;
 
-public class Convert {
+public class ConvertNtoR {
     /**
      * 中缀表达式转后缀
      */
